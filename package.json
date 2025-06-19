@@ -1,0 +1,37 @@
+{
+  "name": "js-string-toolkit",
+  "version": "0.0.3",
+  "description": "A simple Node.js utility module for common string operations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vish052/js-string-toolkit.git"
+  },
+  "author": "Vishal Sharma",
+  "license": "MIT",
+  "keywords": [
+    "string",
+    "strings",
+    "javascript",
+    "nodejs",
+    "utils",
+    "utility",
+    "helper",
+    "toolkit",
+    "library",
+    "module",
+    "manipulation",
+    "string-manipulation",
+    "text",
+    "text-processing",
+    "format",
+    "methods"
+  ],
+  "homepage": "https://github.com/vish052/js-string-toolkit#readme",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
